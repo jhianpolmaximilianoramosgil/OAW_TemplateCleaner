@@ -2,7 +2,7 @@
 > Detalles:
 > - Versión: **1.2**
 > - Código: **PowerShell**
-> - Publicado: **10-NOV-2019**
+> - Publicado: **22-MAYO-2022**
 
 > Descripción: 
 > - Soy una solución nueva, porfavor hacer una copia su **`"TEMPLATE"`** antes de usarme.
