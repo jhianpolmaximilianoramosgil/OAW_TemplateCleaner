@@ -13,3 +13,13 @@
 >	- Arrastre su Template del la consola.
 >	- Espere hasta que termine, de lo contrario puede causar errores.
 >	- De tener algún error/sugerencia/duda comuniquese con mi creador para seguir evolucionando.
+
+
+
+**Recursos:**
+> Httrack
+https://www.httrack.com/page/2/en/ind...
+TemplateCleaner(PFx2) ( Limpiador de Codigo)
+https://github.com/jhianpolmaximilianoramosgil/OAW_TemplateCleaner/archive/refs/tags/PFx2.zip
+PrimeStore
+https://www.primefaces.org/store/
